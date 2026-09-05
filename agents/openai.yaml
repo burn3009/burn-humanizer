@@ -1,0 +1,6 @@
+interface:
+  display_name: "burn-humanizer · 有分寸的拟人化"
+  short_description: "收敛冗长，减少说教，抓住趣味点；让文字、版式与配色更有分寸"
+  default_prompt: "使用 $burn-humanizer 编辑这份内容：保留事实和我的声音，删掉不必要的铺陈，抓住值得讲的细节，按需要调整视觉。"
+policy:
+  allow_implicit_invocation: true
